@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471266858765",
+    "project_id": "pocketdocket-to-do-list",
+    "storage_bucket": "pocketdocket-to-do-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471266858765:android:4c5f110e57a67e7c13c244",
+        "android_client_info": {
+          "package_name": "com.example.pocketdocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471266858765-nfsn50sl5mp33tsgs0emttc1ufekusp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3zzTad5MYxRWLwJngZyPdTK3EKfTmpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471266858765-nfsn50sl5mp33tsgs0emttc1ufekusp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
